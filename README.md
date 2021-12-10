@@ -2,7 +2,8 @@
 ##### - 🔭 Mestrando em Engenharia de Teleinformática
 ##### - 📖 Pesquisando sobre predição de séries temporais climáticas
 ##### - 🌱 Etudando Estatística, Data science e Climatologia
-##### - 📫 Endereço de e-mail: raul.ofc.fs@gmail.com \ raul.paiva@alu.ufc.br
+##### - 📫 Endereços de e-mail: raul.ofc.fs@gmail.com \ raul.paiva@alu.ufc.br
+##### - 📄 Currículo lattes: http://lattes.cnpq.br/9526443016127266
 
 <div align="center">
   <a href="https://github.com/Raul-rx7">
