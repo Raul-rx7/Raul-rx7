@@ -6,9 +6,10 @@
 
 <div align="center">
   <a href="https://github.com/Raul-rx7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raul-rx7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-rx7&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Raul-rx7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-rx7&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="raul-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="raul-mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
