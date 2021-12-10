@@ -1,5 +1,5 @@
 - 👨‍🔬 Professor de Física
-- 🔭 Mestrando em Engenharia de Teleinformática 
+- 🔭 Mestrando em Engenharia de Teleinformática
 - 📖 Pesquisando sobre predição de séries temporais climáticas
 - 🌱 Etudando Estatística, Data science e Climatologia
 - 📫 Endereço de e-mail: raul.ofc.fs@gmail.com \ raul.paiva@alu.ufc.br
