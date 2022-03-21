@@ -1,4 +1,4 @@
-##### - 👨‍🔬 Professor de Física
+##### - 👨‍🔬 Físico
 ##### - 🔭 Mestrando em Engenharia de Teleinformática
 ##### - 📖 Pesquisando sobre predição de séries temporais climáticas
 ##### - 🌱 Etudando Estatística, Data science e Climatologia
