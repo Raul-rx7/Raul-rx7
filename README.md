@@ -4,7 +4,7 @@
 
 
 - 👨‍🔬 Physicist - Licentiate degree;
-- 🔭 Master Degree in Teleinformatics Engineering;
+- 🔭 Master degree in Teleinformatics Engineering;
 - 🔭 PhD student in Teleinformatics Engineering;
 - 🌱 Studying **data science** and **multilinear algebra** for applications with **Electroencephalography (EEG)** signals;
 - 📫 Contact: raul.ofc.fs@gmail.com \ raul.paiva@alu.ufc.br;
