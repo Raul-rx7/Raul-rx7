@@ -3,12 +3,12 @@
 </div>
 
 
-- 👨‍🔬 Físico;
-- 🔭 Mestre em Engenharia de Teleinformática;
-- 🔭 Doutorando em Engenharia de Teleinformática;
-- 🌱 Estudando **ciência de dados** e **álgebra multilinear** para aplicação em análise de sinais de **eletroencefalograma (EEG)**;
-- 📫 Endereços de e-mail: raul.ofc.fs@gmail.com \ raul.paiva@alu.ufc.br;
-- 📄 Currículo lattes: http://lattes.cnpq.br/9526443016127266.
+- 👨‍🔬 Physicist - Licentiate degree;
+- 🔭 Master Degree in Teleinformatics Engineering;
+- 🔭 PhD student in Teleinformatics Engineering;
+- 🌱 Studying **data science** and **multilinear algebra** for applications with **Electroencephalography (EEG)** signals;
+- 📫 Contact: raul.ofc.fs@gmail.com \ raul.paiva@alu.ufc.br;
+- 📄 Lattes curriculum: http://lattes.cnpq.br/9526443016127266.
 
 <div align="center">
   <a href="https://github.com/Raul-rx7">
